@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Roulette" verbose="1" >
+    <test name="Roulette" >
+        <classes>
+            <class name="com.game.roulette.service.impl.BetRuleTest" />
+        </classes>
+    </test>
+</suite>
+
